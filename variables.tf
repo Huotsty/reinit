@@ -7,7 +7,7 @@ default = "t2.micro"
 }
 
 variable "key_name" {
-    default = "test-docker"
+    default = "newkeypair"
 }
 
 variable "allocated_storage" {
